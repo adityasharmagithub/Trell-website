@@ -1,5 +1,5 @@
-# Trell-website
-Theatre Admin Panel for Trell's hands-on round.
+# Ticket booking system
+Design an admin dashboard for ticket booking in movie theatres.
 
 <b>How to deploy the Website:</b>
 <ol>
